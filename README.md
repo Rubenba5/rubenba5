@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Estudiante<br>💻 Python Programmer<br>
+👨‍💻 Estudiante de la ESO<br>💻 Python Programmer<br>
 
 
 ## 🌐 Socials:
